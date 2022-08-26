@@ -1,0 +1,70 @@
+body {
+    background: url(f3.jpg);
+    background-size: cover;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}
+
+input {
+    text-align: justify;
+    border-radius: 4px;
+    height: 1.7rem;
+}
+
+#b1:hover {
+    border: 2px green solid;
+    height: 1.7rem;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: rgb(33, 179, 28);
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#b2 {
+    transition: 0.8s;
+    margin-top: 2rem;
+    height: 2rem;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(26, 168, 224);
+    cursor: pointer;
+}
+
+
+/* #b2:hover {
+    color: white;
+} */
+
+#e3 {
+    margin-top: 3rem;
+}
+
+#f1,
+#f2,
+#f3,
+#f4,
+#f5,
+#f6,
+#f7,
+#f8,
+#f9,
+#f10 {
+    margin-top: -1.1rem;
+    padding-top: -20px;
+    padding-left: 140px;
+    height: 2rem;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}

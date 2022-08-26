@@ -1,0 +1,33 @@
+th {
+    background-color: black;
+    color: yellow;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+td {
+    color: white;
+    padding-left: 10px;
+    padding-right: 11px;
+    text-align: center;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}
+
+table td,
+th {
+    width: 70px;
+    height: 40px;
+}
+
+table {
+    margin: 4rem;
+}
+
+body {
+    background: rgb(2, 2, 39);
+}

@@ -1,0 +1,54 @@
+body {
+    background: url(b1.jpg);
+    background-size: cover;
+}
+
+#n1 {
+    background-color: black;
+    height: 50px;
+    color: white;
+    border: none;
+}
+
+#n2 {
+    padding-right: 2rem;
+    margin-top: 31rem;
+    background-color: black;
+    height: 50px;
+}
+
+#n3 {
+    color: #12ac;
+    background-color: none;
+}
+
+#button1,
+#button2,
+#button4,
+#button5,
+#button6,
+#button7,
+#button10 {
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    font-weight: bolder;
+}
+
+#button8,
+#button9,
+#button11,
+#button12 {
+    padding-top: 15px;
+    background-color: black;
+    color: white;
+}
+
+#button10 {
+    padding-left: 48rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

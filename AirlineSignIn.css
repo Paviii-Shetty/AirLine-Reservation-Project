@@ -1,0 +1,39 @@
+body {
+    background: url(f1.jpeg);
+    background-size: cover;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}
+
+input {
+    margin: 1rem 1rem;
+    border-radius: 5px;
+    height: 1.5rem;
+}
+
+#h1 {
+    padding-top: 2rem;
+}
+
+a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    font-style: normal;
+}
+
+h2 {
+    color: rgb(43, 182, 8);
+}
+
+button {
+    background-color: rgb(43, 182, 8);
+    color: white;
+    height: 1.5rem;
+    width: 230px;
+    border-radius: 7px;
+    border-color: rgb(43, 182, 8);
+}

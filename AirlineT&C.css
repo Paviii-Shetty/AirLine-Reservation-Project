@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+    text-align: justify;
+}
+
+.content {
+    margin-top: 3rem;
+    margin-left: 4rem;
+    margin-right: 6rem;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}

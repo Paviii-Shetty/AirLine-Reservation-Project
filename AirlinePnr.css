@@ -1,0 +1,23 @@
+body {
+    background: url(w3.jpg);
+    background-size: cover;
+}
+
+.head-right {
+    padding-left: 79rem;
+    margin-top: -1rem;
+}
+
+#b1 {
+    background-color: rgb(177, 171, 171);
+    height: 2rem;
+    width: 4rem;
+    border-radius: 7px;
+}
+
+input {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    height: 2rem;
+    width: 20rem;
+}

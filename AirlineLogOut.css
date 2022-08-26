@@ -1,0 +1,46 @@
+body {
+    background: url(f6.jpeg);
+    background-size: cover;
+}
+
+#i1 {
+    border-radius: 5px;
+    padding-left: 7px;
+    font-size: 17px;
+    margin-top: 10rem;
+    background-color: rgb(13, 138, 121);
+    color: white;
+    height: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    width: 30rem;
+}
+
+p {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}
+
+input {
+    height: 1.7rem;
+    width: 20rem;
+}
+
+#b1 {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border: 3px solid rgb(13, 138, 121);
+    border-radius: 7px;
+    margin-top: 7px;
+    height: 2rem;
+    width: 5rem;
+    color: white;
+    background-color: rgb(13, 138, 121);
+    ;
+}

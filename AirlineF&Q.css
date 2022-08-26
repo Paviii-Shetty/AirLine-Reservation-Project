@@ -1,0 +1,9 @@
+body {
+    background: url(x7.jpg);
+    background-size: cover;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}

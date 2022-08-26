@@ -1,0 +1,23 @@
+body {
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(x7.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.content {
+    color: antiquewhite;
+    padding-top: 4rem;
+}
+
+.body {
+    display: flex;
+    margin: 5rem;
+    justify-content: space-around;
+}
+
+.head-right {
+    padding-left: 78rem;
+    margin-top: -1rem;
+}
